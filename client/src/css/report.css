@@ -1,0 +1,14 @@
+.scroll{
+    background-color: black;
+    color: white;
+}
+
+.MuiButton-label{
+    background-color:#007bff ;
+    /* background-color: blue; */
+    height: 38px;
+    width: 200px !important;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}

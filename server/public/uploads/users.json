@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "6273c39f41044bc1b5857cf5"
+  },
+  "name": "umar11p",
+  "employeeid": "rf34",
+  "email": "test123@email.com",
+  "hashed_password": "5c99ca087112c5a0baa8190c2c1754d0bd8c5795",
+  "salt": "1346631164487",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651753887897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652255732608"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274b9ae41044bc1b5857d71"
+  },
+  "name": "koi",
+  "employeeid": "test",
+  "email": "test@email.com",
+  "hashed_password": "350888e919b8a800973997caa70f38b2641052c8",
+  "salt": "1222831666280",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651816878671"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652184759885"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274f89492e4978079f33840"
+  },
+  "name": "hgi",
+  "employeeid": "test5465",
+  "email": "gh@gmail.com",
+  "hashed_password": "89f02f145b68f518e7503841eeb7c81d02bff5de",
+  "salt": "1283767497645",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651832980237"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651834185818"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6274fd2d92e4978079f3387d"
+  },
+  "name": "test321",
+  "employeeid": "test321",
+  "email": "test321@email.com",
+  "hashed_password": "3c5c6df071205f8a279898beb85243417084f6b5",
+  "salt": "846455941506",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651834157440"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652203526260"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62790d2170c83ed1fe6f0f3c"
+  },
+  "name": "test5err",
+  "employeeid": "rf34kre",
+  "email": "ew@m.com",
+  "hashed_password": "dddba3f892a72667c650d42dfc3fe68d42c45a57",
+  "salt": "861829718681",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652100385426"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652328251897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62790f6403d9f5ec84bc1ee6"
+  },
+  "name": "edwde",
+  "employeeid": "rxy",
+  "email": "erg@e.com",
+  "hashed_password": "a0dc9d16b34f670eeb88c179786bc2df473fb780",
+  "salt": "200230410032",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652100964070"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652259206103"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627a365c865d67164556183f"
+  },
+  "name": "rgv",
+  "employeeid": "vrgev",
+  "email": "ev@d.com",
+  "hashed_password": "fbb8e24db2c101ec3add9898f4e53b142ad14281",
+  "salt": "601848031281",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652176476932"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652176476932"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627a36c6865d671645561846"
+  },
+  "name": "umar akmal",
+  "employeeid": "um536147",
+  "email": "um@m.com",
+  "hashed_password": "9f82c2502bbc9da96c2e4bd471ae7fb65840a5be",
+  "salt": "1566758637339",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652176582969"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652185015559"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627a58dcf4c708345c32be24"
+  },
+  "name": "test544321",
+  "employeeid": "ewqqqqqf4",
+  "email": "ewwe@v.com",
+  "hashed_password": "1164a523f860de4f92871f141afd699cd5de8a2f",
+  "salt": "1127546527169",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652185308137"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652185308137"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b305eb9b02eb2af3aaeb2"
+  },
+  "name": "umarakmal12",
+  "employeeid": "qaz123",
+  "email": "qaqz@w.com",
+  "hashed_password": "6b706aa631c43fc3a1adce06a3d0f0c33efba876",
+  "salt": "1040754947464",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652240478656"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652250414463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627b5f50388ab25c579588d8"
+  },
+  "name": "umar11pi",
+  "employeeid": "rf34kug",
+  "email": "yeth@email.com",
+  "hashed_password": "2dc023304e85011ec7677945d6e1c01aa263b5c1",
+  "salt": "1123342892217",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652252496650"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652259140885"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627c92de32790483bef2058c"
+  },
+  "name": "umar",
+  "employeeid": "ce36374673",
+  "email": "umar@e.com",
+  "hashed_password": "2c2cb2252e01066ed540fb9e6ca68e3372594fc3",
+  "salt": "481594641101",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652331230700"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652331230700"
+    }
+  },
+  "__v": 0
+}]
